@@ -1,6 +1,7 @@
 package com.linkelist;
 
 public class LinkedList {
+	
 	Node head;
 	int size=0;
 
@@ -268,22 +269,3 @@ public class LinkedList {
 		return currA.data;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
